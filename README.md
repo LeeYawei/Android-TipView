@@ -3,4 +3,4 @@
 
 ## 运行效果
 
-![demo](http://github.com/David--Lee/Android-TipView/raw/master/demo_pic/zhao.png)
+![zhao](https://raw.githubusercontent.com/David--Lee/Android-TipView/master/demo_pic/zhao.png)
