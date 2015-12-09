@@ -3,4 +3,8 @@
 
 ### 运行效果
 
+![zhao](https://raw.githubusercontent.com/David--Lee/Android-TipView/master/screenshot/demo.gif)
+
+### 女神
+
 ![zhao](https://raw.githubusercontent.com/David--Lee/Android-TipView/master/screenshot/zhao.png)
